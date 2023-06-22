@@ -14,7 +14,7 @@ public class BubbleSorting {
 				}
 				
 			}
-			System.out.println(a[i]);
+			System.out.print(a[i]+" ");
 		}
 		
 

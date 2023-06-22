@@ -13,12 +13,14 @@ public class Bubble_Sorting_Descending {
 					a[j]=temp;
 				}
 			}
+			System.out.print(a[i]+" ");
 		}
-		for (int k = 0; k < a.length; k++) {
-			System.out.println(a[k]+" ");
+//		//System.out.print(a[i]+" ");
+//		for (int k = 0; k < a.length; k++) {
+//			System.out.print(a[k]+" ");
 		}
 		
 
 	}
 
-}
+
