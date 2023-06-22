@@ -44,6 +44,9 @@ public class MinAndMaxOccuringCharactersInString {
 		   }    
 		       
 		   System.out.println("Minimum occurring character: " + minChar);    
-		   System.out.println("Maximum occurring character: " + maxChar);    
+		   System.out.println("Maximum occurring character: " + maxChar); 
+		System.out.println("======reached end====");
+		System.out.println("======reached end====");
+		
 		}  
 }
